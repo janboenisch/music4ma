@@ -1,0 +1,19 @@
+---
+---
+
+/*@import 'bootstrap/bootstrap';*/
+body {
+	color:#111;
+	font-size:14px;
+	font-family: arial;
+}
+H1 {
+	color: #004422;
+	font-size: 30px;
+	font-weight: 600;
+	text-align: center;
+}
+H2 {
+	font-weight: 600;
+	color: #fff;
+}
