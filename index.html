@@ -4,12 +4,12 @@
 {% include nav.html %}
 
 <div id="person">
-<h1>Wer wir sind...music4MA sind wir</h1>
+<h1>Music4MA</h1>
 <div class="row" style="padding:0 5%">
 	{% for person in site.data.contentful.spaces.your_space_alias.person %}
 
 	<div class="col-md-3">
-		<div style="background-color: #{{ person.farbe }}; padding:5px 3%">
+		<div style="background-color: rgba({{ person.farbe }},0.2); padding:5px 3%">
 			<h2>{{ person.name }}</h2><br>
 			Beschreibung: {{ person.beschreibung }}<br>
 			Alter: {{ person.alter }}<br>
