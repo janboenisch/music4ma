@@ -7,18 +7,28 @@ body {
 	font-size:14px;
 	font-family: arial;
 }
+
 H1 {
-	color: #004422;
+	color: #000;
 	font-size: 30px;
 	font-weight: 600;
 	text-align: center;
 }
+
 H2 {
 	font-weight: 600;
 }
-.footer {
-    
+
+H3 {
+	color: #FFF;
+	font-size: 20px;
+	font-weight: 600;
 }
+
 .center { 
 	text-align: center;
  }
+
+{% include footer.css %}
+{% include head.css %}
+{% include nav.css %}
