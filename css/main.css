@@ -17,3 +17,10 @@ H2 {
 	font-weight: 600;
 	color: #fff;
 }
+.footer {
+        position: fixed;
+        padding: 10px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+}
