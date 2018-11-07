@@ -15,10 +15,10 @@ H1 {
 }
 H2 {
 	font-weight: 600;
-	color: #fff;
 }
 .footer {
     
 }
-
-.center { text-align: center; }
+.center { 
+	text-align: center;
+ }
