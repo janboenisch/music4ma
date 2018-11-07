@@ -1,6 +1,160 @@
 ---
 top10:
 - sys:
+    id: 11o9rW1GfsYsyuW64iyGWu
+    created_at: !ruby/object:DateTime 2018-11-07 12:46:36.512000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 13:35:52.958000000 Z
+    content_type_id: top10
+    revision: 2
+  ranking: 6
+  person:
+    sys:
+      id: 3fkMir2QZigAwEYm2yguq6
+      created_at: !ruby/object:DateTime 2018-10-24 13:27:25.142000000 Z
+      updated_at: !ruby/object:DateTime 2018-10-24 13:48:53.300000000 Z
+      content_type_id: person
+      revision: 6
+    name: Karo
+    beschreibung: Eine sehr tollere Beschreibung von Karo
+    alter: 21
+    lebensmotto: Every day every hour turn the pain into power!
+    farbe: FF7F50
+  interpret: M-22, Medina
+  song: First Time
+  name_nummer: 6 Karo
+- sys:
+    id: 50iwro1C8gqC668qKo026M
+    created_at: !ruby/object:DateTime 2018-10-24 14:22:31.094000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-24 14:22:31.094000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 3
+  person:
+    sys:
+      id: 22aizWJIeUaYo4syO4Mc8W
+      created_at: !ruby/object:DateTime 2018-10-24 13:33:43.450000000 Z
+      updated_at: !ruby/object:DateTime 2018-10-24 13:48:18.034000000 Z
+      content_type_id: person
+      revision: 3
+    name: Bianca Brendel
+    beschreibung: Hey Leute!
+    alter: 21
+    lebensmotto: SUUUUUUSHI for life
+    farbe: a700a7
+  interpret: Migos
+  song: Narcos
+  name_nummer: 3 Bianca
+- sys:
+    id: 4ZTDRZTqB2MOGS2CQkSseG
+    created_at: !ruby/object:DateTime 2018-10-24 14:08:26.749000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-24 14:16:17.388000000 Z
+    content_type_id: top10
+    revision: 2
+  ranking: 1
+  person:
+    sys:
+      id: bz1SgSfKYSis8q0ACMGuO
+      created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 13:27:13.637000000 Z
+      content_type_id: person
+      revision: 12
+    name: Judith
+    beschreibung: '"Eine tolle Beschreibung von Judith"'
+    alter: 23
+    lebensmotto: Ohne Kaffee ohne mich!
+    farbe: EE82EE
+  interpret: The Killers
+  song: Mr. Brightside
+  name_nummer: 1 Judith
+- sys:
+    id: 85HvNcdKRU0y4MykMCA2S
+    created_at: !ruby/object:DateTime 2018-11-07 12:49:46.681000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 13:35:29.012000000 Z
+    content_type_id: top10
+    revision: 2
+  ranking: 8
+  person:
+    sys:
+      id: 3fkMir2QZigAwEYm2yguq6
+      created_at: !ruby/object:DateTime 2018-10-24 13:27:25.142000000 Z
+      updated_at: !ruby/object:DateTime 2018-10-24 13:48:53.300000000 Z
+      content_type_id: person
+      revision: 6
+    name: Karo
+    beschreibung: Eine sehr tollere Beschreibung von Karo
+    alter: 21
+    lebensmotto: Every day every hour turn the pain into power!
+    farbe: FF7F50
+  interpret: Edgar Mile
+  song: Forget me Not
+  name_nummer: 8 Karo
+- sys:
+    id: 2fpIENGKo8sAISea02yUYg
+    created_at: !ruby/object:DateTime 2018-10-24 14:20:15.175000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-24 14:20:15.175000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 1
+  person:
+    sys:
+      id: 22aizWJIeUaYo4syO4Mc8W
+      created_at: !ruby/object:DateTime 2018-10-24 13:33:43.450000000 Z
+      updated_at: !ruby/object:DateTime 2018-10-24 13:48:18.034000000 Z
+      content_type_id: person
+      revision: 3
+    name: Bianca Brendel
+    beschreibung: Hey Leute!
+    alter: 21
+    lebensmotto: SUUUUUUSHI for life
+    farbe: a700a7
+  interpret: Juice WRLD
+  song: London Tipton
+  name_nummer: 1 Bianca
+- sys:
+    id: 2ewXxvDEaw8umIIIg4mKw6
+    created_at: !ruby/object:DateTime 2018-10-24 14:25:15.274000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-24 14:25:15.274000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 6
+  person:
+    sys:
+      id: 22aizWJIeUaYo4syO4Mc8W
+      created_at: !ruby/object:DateTime 2018-10-24 13:33:43.450000000 Z
+      updated_at: !ruby/object:DateTime 2018-10-24 13:48:18.034000000 Z
+      content_type_id: person
+      revision: 3
+    name: Bianca Brendel
+    beschreibung: Hey Leute!
+    alter: 21
+    lebensmotto: SUUUUUUSHI for life
+    farbe: a700a7
+  interpret: Juice WRLD
+  song: All Girls Are The Same
+  name_nummer: 6 Bianca
+- sys:
+    id: 3d7HaHErzimomIkiQSO8Mg
+    created_at: !ruby/object:DateTime 2018-11-07 13:02:36.570000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 13:02:36.570000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 1
+  person:
+    sys:
+      id: 22aizWJIeUaYo4syO4Mc8W
+      created_at: !ruby/object:DateTime 2018-10-24 13:33:43.450000000 Z
+      updated_at: !ruby/object:DateTime 2018-10-24 13:48:18.034000000 Z
+      content_type_id: person
+      revision: 3
+    name: Bianca Brendel
+    beschreibung: Hey Leute!
+    alter: 21
+    lebensmotto: SUUUUUUSHI for life
+    farbe: a700a7
+  interpret: Juice WRLD
+  song: London Tipton
+  name_nummer: 1 Bianca
+- sys:
     id: 6ZgUFgEws8KqgQG2Wce42e
     created_at: !ruby/object:DateTime 2018-10-24 14:09:40.542000000 Z
     updated_at: !ruby/object:DateTime 2018-10-24 14:16:12.226000000 Z
@@ -10,6 +164,50 @@ top10:
   interpret: FM Static
   song: Tonight
   name_nummer: 2 Karo
+- sys:
+    id: mnHdBNQ73qSmO8u0oKcsG
+    created_at: !ruby/object:DateTime 2018-11-07 12:48:28.014000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 13:35:41.601000000 Z
+    content_type_id: top10
+    revision: 2
+  ranking: 7
+  person:
+    sys:
+      id: 3fkMir2QZigAwEYm2yguq6
+      created_at: !ruby/object:DateTime 2018-10-24 13:27:25.142000000 Z
+      updated_at: !ruby/object:DateTime 2018-10-24 13:48:53.300000000 Z
+      content_type_id: person
+      revision: 6
+    name: Karo
+    beschreibung: Eine sehr tollere Beschreibung von Karo
+    alter: 21
+    lebensmotto: Every day every hour turn the pain into power!
+    farbe: FF7F50
+  interpret: HEDEGAARD
+  song: Back to You
+  name_nummer: 7 Karo
+- sys:
+    id: 6hsSEl6vp6y4E6WAoWWcIa
+    created_at: !ruby/object:DateTime 2018-10-24 15:31:42.780000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 13:36:35.317000000 Z
+    content_type_id: top10
+    revision: 3
+  ranking: 4
+  person:
+    sys:
+      id: 3fkMir2QZigAwEYm2yguq6
+      created_at: !ruby/object:DateTime 2018-10-24 13:27:25.142000000 Z
+      updated_at: !ruby/object:DateTime 2018-10-24 13:48:53.300000000 Z
+      content_type_id: person
+      revision: 6
+    name: Karo
+    beschreibung: Eine sehr tollere Beschreibung von Karo
+    alter: 21
+    lebensmotto: Every day every hour turn the pain into power!
+    farbe: FF7F50
+  interpret: Knacki
+  song: Knie-Kna-Knackie- Das kleine Krokodil
+  name_nummer: 4 Karo
 - sys:
     id: 3vhHZkF3LGyqEo62isuWMW
     created_at: !ruby/object:DateTime 2018-10-24 14:23:52.451000000 Z
@@ -77,6 +275,28 @@ top10:
   song: Ocean
   name_nummer: 1 Karo
 - sys:
+    id: 7DcXULz2tUaMIEwAcGqUIo
+    created_at: !ruby/object:DateTime 2018-11-07 12:44:13.380000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 13:36:05.684000000 Z
+    content_type_id: top10
+    revision: 3
+  ranking: 5
+  person:
+    sys:
+      id: 3fkMir2QZigAwEYm2yguq6
+      created_at: !ruby/object:DateTime 2018-10-24 13:27:25.142000000 Z
+      updated_at: !ruby/object:DateTime 2018-10-24 13:48:53.300000000 Z
+      content_type_id: person
+      revision: 6
+    name: Karo
+    beschreibung: Eine sehr tollere Beschreibung von Karo
+    alter: 21
+    lebensmotto: Every day every hour turn the pain into power!
+    farbe: FF7F50
+  interpret: Seeb
+  song: What do you love?
+  name_nummer: 5 Karo
+- sys:
     id: 43iEfHKpSgeuaymeEOkAAa
     created_at: !ruby/object:DateTime 2018-10-24 15:39:49.192000000 Z
     updated_at: !ruby/object:DateTime 2018-10-24 15:39:49.192000000 Z
@@ -121,6 +341,28 @@ top10:
   song: Scared Of Love
   name_nummer: 4 Bianca
 - sys:
+    id: 5GumsRb356OqAygUuyS2OM
+    created_at: !ruby/object:DateTime 2018-11-07 12:51:44.878000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 13:06:27.555000000 Z
+    content_type_id: top10
+    revision: 2
+  ranking: 10
+  person:
+    sys:
+      id: 3fkMir2QZigAwEYm2yguq6
+      created_at: !ruby/object:DateTime 2018-10-24 13:27:25.142000000 Z
+      updated_at: !ruby/object:DateTime 2018-10-24 13:48:53.300000000 Z
+      content_type_id: person
+      revision: 6
+    name: Karo
+    beschreibung: Eine sehr tollere Beschreibung von Karo
+    alter: 21
+    lebensmotto: Every day every hour turn the pain into power!
+    farbe: FF7F50
+  interpret: Jonas Blue
+  song: Perfect Strangers
+  name_nummer: 10 Karo
+- sys:
     id: 1tCkZ1bLBGCMcYoOi8cc2A
     created_at: !ruby/object:DateTime 2018-10-24 14:21:50.861000000 Z
     updated_at: !ruby/object:DateTime 2018-10-24 14:21:50.861000000 Z
@@ -143,115 +385,28 @@ top10:
   song: Lambtalk
   name_nummer: 2 Bianca
 - sys:
-    id: 6hsSEl6vp6y4E6WAoWWcIa
-    created_at: !ruby/object:DateTime 2018-10-24 15:31:42.780000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 15:31:42.780000000 Z
-    content_type_id: top10
-    revision: 1
-  ranking: 4
-  interpret: Knacki
-  song: Knie-Kna-Knackie- Das kleine Krokodil
-  name_nummer: Karo 4
-- sys:
-    id: 50iwro1C8gqC668qKo026M
-    created_at: !ruby/object:DateTime 2018-10-24 14:22:31.094000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 14:22:31.094000000 Z
-    content_type_id: top10
-    revision: 1
-  ranking: 3
-  person:
-    sys:
-      id: 22aizWJIeUaYo4syO4Mc8W
-      created_at: !ruby/object:DateTime 2018-10-24 13:33:43.450000000 Z
-      updated_at: !ruby/object:DateTime 2018-10-24 13:48:18.034000000 Z
-      content_type_id: person
-      revision: 3
-    name: Bianca Brendel
-    beschreibung: Hey Leute!
-    alter: 21
-    lebensmotto: SUUUUUUSHI for life
-    farbe: a700a7
-  interpret: Migos
-  song: Narcos
-  name_nummer: 3 Bianca
-- sys:
-    id: 4ZTDRZTqB2MOGS2CQkSseG
-    created_at: !ruby/object:DateTime 2018-10-24 14:08:26.749000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 14:16:17.388000000 Z
+    id: 43mec9sERGAmskIAamaSMi
+    created_at: !ruby/object:DateTime 2018-11-07 12:50:45.023000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 13:06:46.873000000 Z
     content_type_id: top10
     revision: 2
-  ranking: 1
+  ranking: 9
   person:
     sys:
-      id: bz1SgSfKYSis8q0ACMGuO
-      created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
-      updated_at: !ruby/object:DateTime 2018-10-24 13:51:35.159000000 Z
+      id: 3fkMir2QZigAwEYm2yguq6
+      created_at: !ruby/object:DateTime 2018-10-24 13:27:25.142000000 Z
+      updated_at: !ruby/object:DateTime 2018-10-24 13:48:53.300000000 Z
       content_type_id: person
-      revision: 11
-    name: Judith
-    beschreibung: Eine tolle Beschreibung von Judith
-    alter: 23
-    lebensmotto: Ohne Kaffee ohne mich!
-    farbe: EE82EE
-  interpret: The Killers
-  song: Mr. Brightside
-  name_nummer: 1 Judith
-- sys:
-    id: 2fpIENGKo8sAISea02yUYg
-    created_at: !ruby/object:DateTime 2018-10-24 14:20:15.175000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 14:20:15.175000000 Z
-    content_type_id: top10
-    revision: 1
-  ranking: 1
-  person:
-    sys:
-      id: 22aizWJIeUaYo4syO4Mc8W
-      created_at: !ruby/object:DateTime 2018-10-24 13:33:43.450000000 Z
-      updated_at: !ruby/object:DateTime 2018-10-24 13:48:18.034000000 Z
-      content_type_id: person
-      revision: 3
-    name: Bianca Brendel
-    beschreibung: Hey Leute!
+      revision: 6
+    name: Karo
+    beschreibung: Eine sehr tollere Beschreibung von Karo
     alter: 21
-    lebensmotto: SUUUUUUSHI for life
-    farbe: a700a7
-  interpret: Juice WRLD
-  song: London Tipton
-  name_nummer: 1 Bianca
-- sys:
-    id: 2ewXxvDEaw8umIIIg4mKw6
-    created_at: !ruby/object:DateTime 2018-10-24 14:25:15.274000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 14:25:15.274000000 Z
-    content_type_id: top10
-    revision: 1
-  ranking: 6
-  person:
-    sys:
-      id: 22aizWJIeUaYo4syO4Mc8W
-      created_at: !ruby/object:DateTime 2018-10-24 13:33:43.450000000 Z
-      updated_at: !ruby/object:DateTime 2018-10-24 13:48:18.034000000 Z
-      content_type_id: person
-      revision: 3
-    name: Bianca Brendel
-    beschreibung: Hey Leute!
-    alter: 21
-    lebensmotto: SUUUUUUSHI for life
-    farbe: a700a7
-  interpret: Juice WRLD
-  song: All Girls Are The Same
-  name_nummer: 6 Bianca
+    lebensmotto: Every day every hour turn the pain into power!
+    farbe: FF7F50
+  interpret: Gabrielle Aplin
+  song: Miss you
+  name_nummer: 9 Karo
 person:
-- sys:
-    id: bz1SgSfKYSis8q0ACMGuO
-    created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 13:51:35.159000000 Z
-    content_type_id: person
-    revision: 11
-  name: Judith
-  beschreibung: Eine tolle Beschreibung von Judith
-  alter: 23
-  lebensmotto: Ohne Kaffee ohne mich!
-  farbe: EE82EE
 - sys:
     id: 3fkMir2QZigAwEYm2yguq6
     created_at: !ruby/object:DateTime 2018-10-24 13:27:25.142000000 Z
@@ -263,6 +418,17 @@ person:
   alter: 21
   lebensmotto: Every day every hour turn the pain into power!
   farbe: FF7F50
+- sys:
+    id: bz1SgSfKYSis8q0ACMGuO
+    created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 13:27:13.637000000 Z
+    content_type_id: person
+    revision: 12
+  name: Judith
+  beschreibung: '"Eine tolle Beschreibung von Judith"'
+  alter: 23
+  lebensmotto: Ohne Kaffee ohne mich!
+  farbe: EE82EE
 - sys:
     id: 22aizWJIeUaYo4syO4Mc8W
     created_at: !ruby/object:DateTime 2018-10-24 13:33:43.450000000 Z
@@ -285,3 +451,14 @@ person:
   alter: 25
   lebensmotto: Ich liebe gute Musik und "echte" Künstler!
   farbe: 4169E1
+karte:
+- sys:
+    id: 2kXWH3bu6IwIgU0KgCUka2
+    created_at: !ruby/object:DateTime 2018-10-24 17:08:51.968000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-24 17:10:12.268000000 Z
+    content_type_id: karte
+    revision: 4
+  map:
+    lat: 49.4742071
+    lon: 8.534947399999965
+  adresse: Music4MA Kontakt
