@@ -4,12 +4,12 @@
 {% include nav.html %}
 
 <div id="person">
-<div class="center"><h2 class="center main-title" style="font-size: 80px; padding-top: 20px;">Music4MA</h2></div>
+<div class="center"><h2 class="center main-title" style="font-size: 120px; padding-top: 20px;">Music4MA</h2></div>
 <div class="row" style="padding:0 5%">
 	{% for person in site.data.contentful.spaces.your_space_alias.person %}
 
 	<div class="col-md-3">
-		<div class="box-person" style="background-color: rgba({{ person.farbe }},1); padding:5px 3%">
+		<div class="box-person" style="padding:5px 3%; background-color: #fff; border: 10px solid rgba({{ person.farbe }},1);">
 			<div class="blackbox"><h2>{{ person.name }}</h2></div>
 			<div class="aboutmebox">
 				<p class="aboutmetitle"><strong>ABOUT ME</strong></p>
