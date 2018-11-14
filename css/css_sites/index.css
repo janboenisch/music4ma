@@ -1,0 +1,17 @@
+.box-person {
+	box-shadow: 10px 10px rgba(0,0,0,0.4);
+	min-height: 500px;
+}
+.blackbox {
+	background-color: #000;
+	display: inline-block;
+	height: 8px;
+	margin-top: 10px;
+}
+.main-title {
+	background-color: #000;
+	display: inline-block;
+	transform: rotate(-5deg);
+	color: #fff;
+	padding: 0 20px;
+}
