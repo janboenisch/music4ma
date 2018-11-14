@@ -1,6 +1,13 @@
 .box-person {
 	box-shadow: 10px 10px rgba(0,0,0,0.4);
 	min-height: 600px;
+	transition: width 0.2s, height 0.2s, transform 0.2s;
+	transition-timing-function: ease;
+}
+.box-person:hover {
+	transform: scale(1.02,1.02);
+	transition: width 0.2s, height 0.2s, transform 0.2s;
+	transition-timing-function: ease;
 }
 
 .blackbox {
@@ -21,6 +28,6 @@
 
 .aboutmebox {
 	background-color: rgba(255,255,255,0.5);
-	padding: 0 20px;	
+	padding: 20px 0;	
 }
 
