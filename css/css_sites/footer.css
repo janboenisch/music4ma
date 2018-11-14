@@ -12,13 +12,14 @@ a {
 	color: #FFF;
 }
 .para {
-	background-image: url("/pictures/Skyline-MA_bw.png");
-	height: 365px;
-	margin-top: 75px;
-/* background-attachment: fixed; */
-/* background-position: center; */
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position-y: -105px;
+	background-image: url("/pictures/music1.jpg");
+  
+    height: 500px; 
+
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
