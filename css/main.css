@@ -5,7 +5,7 @@
 body {
 	color:#111;
 	font-size:14px;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Karma', serif;
 }
 
 H1 {
@@ -13,16 +13,15 @@ H1 {
 	font-size: 30px;
 	font-weight: 600;
 	text-align: center;
+	font-family: 'Indie Flower', cursive;
 }
 
 H2 {
-	font-weight: 600;
+	font-weight: 700;
 }
 
 H3 {
-	color: #FFF;
 	font-size: 20px;
-	font-weight: 600;
 }
 
 .center { 

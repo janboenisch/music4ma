@@ -1,12 +1,66 @@
 ---
 top10:
 - sys:
-    id: 11o9rW1GfsYsyuW64iyGWu
-    created_at: !ruby/object:DateTime 2018-11-07 12:46:36.512000000 Z
-    updated_at: !ruby/object:DateTime 2018-11-07 13:35:52.958000000 Z
+    id: 6ZgUFgEws8KqgQG2Wce42e
+    created_at: !ruby/object:DateTime 2018-10-24 14:09:40.542000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-24 14:16:12.226000000 Z
     content_type_id: top10
     revision: 2
-  ranking: 6
+  ranking: 2
+  interpret: FM Static
+  song: Tonight
+  name_nummer: 2 Karo
+- sys:
+    id: 2pY4nRdmJ2cgOIIKaCw0gy
+    created_at: !ruby/object:DateTime 2018-11-07 17:34:48.961000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 17:40:55.304000000 Z
+    content_type_id: top10
+    revision: 2
+  ranking: 2
+  person:
+    sys:
+      id: bz1SgSfKYSis8q0ACMGuO
+      created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:05:21.699000000 Z
+      content_type_id: person
+      revision: 13
+    name: Judith
+    beschreibung: '"Eine tolle Beschreibung von Judith"'
+    alter: 23
+    lebensmotto: Ohne Kaffee ohne mich!
+    farbe: 238, 130, 238
+  interpret: Oasis
+  song: Wonderwall
+  name_nummer: 2 Judith
+- sys:
+    id: 3vhHZkF3LGyqEo62isuWMW
+    created_at: !ruby/object:DateTime 2018-10-24 14:23:52.451000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-24 14:23:52.451000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 5
+  person:
+    sys:
+      id: 22aizWJIeUaYo4syO4Mc8W
+      created_at: !ruby/object:DateTime 2018-10-24 13:33:43.450000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:06:04.491000000 Z
+      content_type_id: person
+      revision: 4
+    name: Bianca
+    beschreibung: Hey Leute!
+    alter: 21
+    lebensmotto: SUUUUUUSHI for life
+    farbe: 167, 0, 167
+  interpret: Juice WRLD
+  song: Rich and Blind
+  name_nummer: 5 Bianca
+- sys:
+    id: uhY3dZKXEyuOsa4mgW8Qc
+    created_at: !ruby/object:DateTime 2018-10-24 14:12:27.416000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-24 14:50:30.380000000 Z
+    content_type_id: top10
+    revision: 4
+  ranking: 3
   person:
     sys:
       id: 3fkMir2QZigAwEYm2yguq6
@@ -19,9 +73,141 @@ top10:
     alter: 21
     lebensmotto: Every day every hour turn the pain into power!
     farbe: 255, 127, 80
-  interpret: M-22, Medina
-  song: First Time
-  name_nummer: 6 Karo
+  interpret: Karen Harding
+  song: Picture
+  name_nummer: 3 Karo
+- sys:
+    id: 7DcXULz2tUaMIEwAcGqUIo
+    created_at: !ruby/object:DateTime 2018-11-07 12:44:13.380000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 13:36:05.684000000 Z
+    content_type_id: top10
+    revision: 3
+  ranking: 5
+  person:
+    sys:
+      id: 3fkMir2QZigAwEYm2yguq6
+      created_at: !ruby/object:DateTime 2018-10-24 13:27:25.142000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:05:45.525000000 Z
+      content_type_id: person
+      revision: 7
+    name: Karo
+    beschreibung: Eine sehr tollere Beschreibung von Karo
+    alter: 21
+    lebensmotto: Every day every hour turn the pain into power!
+    farbe: 255, 127, 80
+  interpret: Seeb
+  song: What do you love?
+  name_nummer: 5 Karo
+- sys:
+    id: 43iEfHKpSgeuaymeEOkAAa
+    created_at: !ruby/object:DateTime 2018-10-24 15:39:49.192000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-24 15:39:49.192000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 1
+  person:
+    sys:
+      id: eMwjBV8T6wIOGwWiMcegu
+      created_at: !ruby/object:DateTime 2018-10-24 13:48:46.670000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:04:45.398000000 Z
+      content_type_id: person
+      revision: 3
+    name: Jan
+    beschreibung: Beschreibung...
+    alter: 25
+    lebensmotto: Ich liebe gute Musik und "echte" Künstler!
+    farbe: 65, 105, 225
+  interpret: Prinz Pi
+  song: Du bist
+  name_nummer: Jan 1
+- sys:
+    id: 5rsV4k4u8EmG0QmyQ2o2ek
+    created_at: !ruby/object:DateTime 2018-11-07 17:45:42.483000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 17:45:42.483000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 7
+  person:
+    sys:
+      id: bz1SgSfKYSis8q0ACMGuO
+      created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:05:21.699000000 Z
+      content_type_id: person
+      revision: 13
+    name: Judith
+    beschreibung: '"Eine tolle Beschreibung von Judith"'
+    alter: 23
+    lebensmotto: Ohne Kaffee ohne mich!
+    farbe: 238, 130, 238
+  interpret: Imagine Dragons
+  song: Shots
+  name_nummer: 7 Judith
+- sys:
+    id: 4PlHv6humQOESQ6Aie6cUm
+    created_at: !ruby/object:DateTime 2018-10-24 14:23:18.770000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-24 14:23:18.770000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 4
+  person:
+    sys:
+      id: 22aizWJIeUaYo4syO4Mc8W
+      created_at: !ruby/object:DateTime 2018-10-24 13:33:43.450000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:06:04.491000000 Z
+      content_type_id: person
+      revision: 4
+    name: Bianca
+    beschreibung: Hey Leute!
+    alter: 21
+    lebensmotto: SUUUUUUSHI for life
+    farbe: 167, 0, 167
+  interpret: Juice WRLD
+  song: Scared Of Love
+  name_nummer: 4 Bianca
+- sys:
+    id: 3y6BdCK4c082mwOgK8a8ao
+    created_at: !ruby/object:DateTime 2018-11-07 17:49:06.866000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 17:49:06.866000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 10
+  person:
+    sys:
+      id: bz1SgSfKYSis8q0ACMGuO
+      created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:05:21.699000000 Z
+      content_type_id: person
+      revision: 13
+    name: Judith
+    beschreibung: '"Eine tolle Beschreibung von Judith"'
+    alter: 23
+    lebensmotto: Ohne Kaffee ohne mich!
+    farbe: 238, 130, 238
+  interpret: My Morning Jacket
+  song: Big Decisions
+  name_nummer: 10 Judith
+- sys:
+    id: 43mec9sERGAmskIAamaSMi
+    created_at: !ruby/object:DateTime 2018-11-07 12:50:45.023000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 13:06:46.873000000 Z
+    content_type_id: top10
+    revision: 2
+  ranking: 9
+  person:
+    sys:
+      id: 3fkMir2QZigAwEYm2yguq6
+      created_at: !ruby/object:DateTime 2018-10-24 13:27:25.142000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:05:45.525000000 Z
+      content_type_id: person
+      revision: 7
+    name: Karo
+    beschreibung: Eine sehr tollere Beschreibung von Karo
+    alter: 21
+    lebensmotto: Every day every hour turn the pain into power!
+    farbe: 255, 127, 80
+  interpret: Gabrielle Aplin
+  song: Miss you
+  name_nummer: 9 Karo
 - sys:
     id: 50iwro1C8gqC668qKo026M
     created_at: !ruby/object:DateTime 2018-10-24 14:22:31.094000000 Z
@@ -47,9 +233,9 @@ top10:
 - sys:
     id: 4ZTDRZTqB2MOGS2CQkSseG
     created_at: !ruby/object:DateTime 2018-10-24 14:08:26.749000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 14:16:17.388000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 17:40:30.483000000 Z
     content_type_id: top10
-    revision: 2
+    revision: 4
   ranking: 1
   person:
     sys:
@@ -63,9 +249,75 @@ top10:
     alter: 23
     lebensmotto: Ohne Kaffee ohne mich!
     farbe: 238, 130, 238
-  interpret: The Killers
-  song: Mr. Brightside
+  interpret: Mumford & Sons
+  song: Believe
   name_nummer: 1 Judith
+- sys:
+    id: 570ELlyfEk6QcYGkQgsmsw
+    created_at: !ruby/object:DateTime 2018-11-07 17:46:39.320000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 17:46:39.320000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 8
+  person:
+    sys:
+      id: bz1SgSfKYSis8q0ACMGuO
+      created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:05:21.699000000 Z
+      content_type_id: person
+      revision: 13
+    name: Judith
+    beschreibung: '"Eine tolle Beschreibung von Judith"'
+    alter: 23
+    lebensmotto: Ohne Kaffee ohne mich!
+    farbe: 238, 130, 238
+  interpret: Blur
+  song: There Are Too Many Of Us
+  name_nummer: 8 Judith
+- sys:
+    id: 16oFWugR0yIiO0Uia8kyea
+    created_at: !ruby/object:DateTime 2018-11-07 17:42:31.973000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 17:42:31.973000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 4
+  person:
+    sys:
+      id: bz1SgSfKYSis8q0ACMGuO
+      created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:05:21.699000000 Z
+      content_type_id: person
+      revision: 13
+    name: Judith
+    beschreibung: '"Eine tolle Beschreibung von Judith"'
+    alter: 23
+    lebensmotto: Ohne Kaffee ohne mich!
+    farbe: 238, 130, 238
+  interpret: WALK THE MOON
+  song: Shut Up and Dance
+  name_nummer: 4 Judith
+- sys:
+    id: 2WlbPg2snYsA4oGCw8IWSq
+    created_at: !ruby/object:DateTime 2018-11-07 17:38:31.111000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 17:38:31.111000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 3
+  person:
+    sys:
+      id: bz1SgSfKYSis8q0ACMGuO
+      created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:05:21.699000000 Z
+      content_type_id: person
+      revision: 13
+    name: Judith
+    beschreibung: '"Eine tolle Beschreibung von Judith"'
+    alter: 23
+    lebensmotto: Ohne Kaffee ohne mich!
+    farbe: 238, 130, 238
+  interpret: Death Cab for Cutie
+  song: Black Sun
+  name_nummer: 3 Judith
 - sys:
     id: 85HvNcdKRU0y4MykMCA2S
     created_at: !ruby/object:DateTime 2018-11-07 12:49:46.681000000 Z
@@ -155,16 +407,6 @@ top10:
   song: London Tipton
   name_nummer: 1 Bianca
 - sys:
-    id: 6ZgUFgEws8KqgQG2Wce42e
-    created_at: !ruby/object:DateTime 2018-10-24 14:09:40.542000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 14:16:12.226000000 Z
-    content_type_id: top10
-    revision: 2
-  ranking: 2
-  interpret: FM Static
-  song: Tonight
-  name_nummer: 2 Karo
-- sys:
     id: mnHdBNQ73qSmO8u0oKcsG
     created_at: !ruby/object:DateTime 2018-11-07 12:48:28.014000000 Z
     updated_at: !ruby/object:DateTime 2018-11-07 13:35:41.601000000 Z
@@ -209,50 +451,6 @@ top10:
   song: Knie-Kna-Knackie- Das kleine Krokodil
   name_nummer: 4 Karo
 - sys:
-    id: 3vhHZkF3LGyqEo62isuWMW
-    created_at: !ruby/object:DateTime 2018-10-24 14:23:52.451000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 14:23:52.451000000 Z
-    content_type_id: top10
-    revision: 1
-  ranking: 5
-  person:
-    sys:
-      id: 22aizWJIeUaYo4syO4Mc8W
-      created_at: !ruby/object:DateTime 2018-10-24 13:33:43.450000000 Z
-      updated_at: !ruby/object:DateTime 2018-11-07 15:06:04.491000000 Z
-      content_type_id: person
-      revision: 4
-    name: Bianca
-    beschreibung: Hey Leute!
-    alter: 21
-    lebensmotto: SUUUUUUSHI for life
-    farbe: 167, 0, 167
-  interpret: Juice WRLD
-  song: Rich and Blind
-  name_nummer: 5 Bianca
-- sys:
-    id: uhY3dZKXEyuOsa4mgW8Qc
-    created_at: !ruby/object:DateTime 2018-10-24 14:12:27.416000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 14:50:30.380000000 Z
-    content_type_id: top10
-    revision: 4
-  ranking: 3
-  person:
-    sys:
-      id: 3fkMir2QZigAwEYm2yguq6
-      created_at: !ruby/object:DateTime 2018-10-24 13:27:25.142000000 Z
-      updated_at: !ruby/object:DateTime 2018-11-07 15:05:45.525000000 Z
-      content_type_id: person
-      revision: 7
-    name: Karo
-    beschreibung: Eine sehr tollere Beschreibung von Karo
-    alter: 21
-    lebensmotto: Every day every hour turn the pain into power!
-    farbe: 255, 127, 80
-  interpret: Karen Harding
-  song: Picture
-  name_nummer: 3 Karo
-- sys:
     id: ccZ8IGsZlQc8QwgiEyoYC
     created_at: !ruby/object:DateTime 2018-10-24 14:08:37.061000000 Z
     updated_at: !ruby/object:DateTime 2018-10-24 14:16:26.267000000 Z
@@ -274,72 +472,6 @@ top10:
   interpret: Alok, Zeeba and IRO
   song: Ocean
   name_nummer: 1 Karo
-- sys:
-    id: 7DcXULz2tUaMIEwAcGqUIo
-    created_at: !ruby/object:DateTime 2018-11-07 12:44:13.380000000 Z
-    updated_at: !ruby/object:DateTime 2018-11-07 13:36:05.684000000 Z
-    content_type_id: top10
-    revision: 3
-  ranking: 5
-  person:
-    sys:
-      id: 3fkMir2QZigAwEYm2yguq6
-      created_at: !ruby/object:DateTime 2018-10-24 13:27:25.142000000 Z
-      updated_at: !ruby/object:DateTime 2018-11-07 15:05:45.525000000 Z
-      content_type_id: person
-      revision: 7
-    name: Karo
-    beschreibung: Eine sehr tollere Beschreibung von Karo
-    alter: 21
-    lebensmotto: Every day every hour turn the pain into power!
-    farbe: 255, 127, 80
-  interpret: Seeb
-  song: What do you love?
-  name_nummer: 5 Karo
-- sys:
-    id: 43iEfHKpSgeuaymeEOkAAa
-    created_at: !ruby/object:DateTime 2018-10-24 15:39:49.192000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 15:39:49.192000000 Z
-    content_type_id: top10
-    revision: 1
-  ranking: 1
-  person:
-    sys:
-      id: eMwjBV8T6wIOGwWiMcegu
-      created_at: !ruby/object:DateTime 2018-10-24 13:48:46.670000000 Z
-      updated_at: !ruby/object:DateTime 2018-11-07 15:04:45.398000000 Z
-      content_type_id: person
-      revision: 3
-    name: Jan
-    beschreibung: Beschreibung...
-    alter: 25
-    lebensmotto: Ich liebe gute Musik und "echte" Künstler!
-    farbe: 65, 105, 225
-  interpret: Prinz Pi
-  song: Du bist
-  name_nummer: Jan 1
-- sys:
-    id: 4PlHv6humQOESQ6Aie6cUm
-    created_at: !ruby/object:DateTime 2018-10-24 14:23:18.770000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 14:23:18.770000000 Z
-    content_type_id: top10
-    revision: 1
-  ranking: 4
-  person:
-    sys:
-      id: 22aizWJIeUaYo4syO4Mc8W
-      created_at: !ruby/object:DateTime 2018-10-24 13:33:43.450000000 Z
-      updated_at: !ruby/object:DateTime 2018-11-07 15:06:04.491000000 Z
-      content_type_id: person
-      revision: 4
-    name: Bianca
-    beschreibung: Hey Leute!
-    alter: 21
-    lebensmotto: SUUUUUUSHI for life
-    farbe: 167, 0, 167
-  interpret: Juice WRLD
-  song: Scared Of Love
-  name_nummer: 4 Bianca
 - sys:
     id: 5GumsRb356OqAygUuyS2OM
     created_at: !ruby/object:DateTime 2018-11-07 12:51:44.878000000 Z
@@ -385,12 +517,34 @@ top10:
   song: Lambtalk
   name_nummer: 2 Bianca
 - sys:
-    id: 43mec9sERGAmskIAamaSMi
-    created_at: !ruby/object:DateTime 2018-11-07 12:50:45.023000000 Z
-    updated_at: !ruby/object:DateTime 2018-11-07 13:06:46.873000000 Z
+    id: 3WHFOuxDduOWQKQAUak2KA
+    created_at: !ruby/object:DateTime 2018-11-07 17:47:41.149000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 17:47:41.149000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 9
+  person:
+    sys:
+      id: bz1SgSfKYSis8q0ACMGuO
+      created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:05:21.699000000 Z
+      content_type_id: person
+      revision: 13
+    name: Judith
+    beschreibung: '"Eine tolle Beschreibung von Judith"'
+    alter: 23
+    lebensmotto: Ohne Kaffee ohne mich!
+    farbe: 238, 130, 238
+  interpret: Sufjan Stevens
+  song: Should Have Known Better
+  name_nummer: 9 Judith
+- sys:
+    id: 11o9rW1GfsYsyuW64iyGWu
+    created_at: !ruby/object:DateTime 2018-11-07 12:46:36.512000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 13:35:52.958000000 Z
     content_type_id: top10
     revision: 2
-  ranking: 9
+  ranking: 6
   person:
     sys:
       id: 3fkMir2QZigAwEYm2yguq6
@@ -403,9 +557,64 @@ top10:
     alter: 21
     lebensmotto: Every day every hour turn the pain into power!
     farbe: 255, 127, 80
-  interpret: Gabrielle Aplin
-  song: Miss you
-  name_nummer: 9 Karo
+  interpret: M-22, Medina
+  song: First Time
+  name_nummer: 6 Karo
+- sys:
+    id: 3aUylmyIhag0Y4uiwoKG2g
+    created_at: !ruby/object:DateTime 2018-11-07 17:43:52.779000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 17:43:52.779000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 5
+  person:
+    sys:
+      id: bz1SgSfKYSis8q0ACMGuO
+      created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:05:21.699000000 Z
+      content_type_id: person
+      revision: 13
+    name: Judith
+    beschreibung: '"Eine tolle Beschreibung von Judith"'
+    alter: 23
+    lebensmotto: Ohne Kaffee ohne mich!
+    farbe: 238, 130, 238
+  interpret: Modest Mouse
+  song: Lampshades on Fire
+  name_nummer: 5 Judith
+- sys:
+    id: 4GJmJLLri0U4kaQM0iIAYO
+    created_at: !ruby/object:DateTime 2018-11-07 17:44:53.132000000 Z
+    updated_at: !ruby/object:DateTime 2018-11-07 17:44:53.132000000 Z
+    content_type_id: top10
+    revision: 1
+  ranking: 6
+  person:
+    sys:
+      id: bz1SgSfKYSis8q0ACMGuO
+      created_at: !ruby/object:DateTime 2018-10-17 15:37:45.195000000 Z
+      updated_at: !ruby/object:DateTime 2018-11-07 15:05:21.699000000 Z
+      content_type_id: person
+      revision: 13
+    name: Judith
+    beschreibung: '"Eine tolle Beschreibung von Judith"'
+    alter: 23
+    lebensmotto: Ohne Kaffee ohne mich!
+    farbe: 238, 130, 238
+  interpret: The Wombats
+  song: Greek Tragedy
+  name_nummer: 6 Judith
+karte:
+- sys:
+    id: 2kXWH3bu6IwIgU0KgCUka2
+    created_at: !ruby/object:DateTime 2018-10-24 17:08:51.968000000 Z
+    updated_at: !ruby/object:DateTime 2018-10-24 17:10:12.268000000 Z
+    content_type_id: karte
+    revision: 4
+  map:
+    lat: 49.4742071
+    lon: 8.534947399999965
+  adresse: Music4MA Kontakt
 person:
 - sys:
     id: 22aizWJIeUaYo4syO4Mc8W
@@ -451,14 +660,3 @@ person:
   alter: 23
   lebensmotto: Ohne Kaffee ohne mich!
   farbe: 238, 130, 238
-karte:
-- sys:
-    id: 2kXWH3bu6IwIgU0KgCUka2
-    created_at: !ruby/object:DateTime 2018-10-24 17:08:51.968000000 Z
-    updated_at: !ruby/object:DateTime 2018-10-24 17:10:12.268000000 Z
-    content_type_id: karte
-    revision: 4
-  map:
-    lat: 49.4742071
-    lon: 8.534947399999965
-  adresse: Music4MA Kontakt
