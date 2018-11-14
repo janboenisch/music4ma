@@ -1,3 +1,9 @@
+/* Navigation Bar */
+.row {
+    background-color: #000000;
+    border: none;
+}
+
 /* Dropdown Button */
 .dropbtn {
     background-color: #000000;
