@@ -22,14 +22,5 @@
 .aboutmebox {
 	background-color: rgba(255,255,255,0.5);
 	padding: 0 20px;	
-	margin: 20px -13px;
 }
 
-.aboutmetitle {
-	transform: rotate(-5deg);
-	font-weight: 700;
-	position: relative;
-	top: 0px;
-	left: 250px;
-	font-size: 25px;
-}
