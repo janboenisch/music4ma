@@ -29,6 +29,14 @@ H3 {
 	text-align: center;
  }
 
+.tpad-10 {
+	margin-top: 10px;
+}
+
+.tpad-25 {
+	margin-top: 15px;
+}
+
 {% include_relative css_sites/footer.css %}
 {% include_relative css_sites/head.css %}
 {% include_relative css_sites/nav.css %}

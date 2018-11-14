@@ -9,11 +9,14 @@
 	{% for person in site.data.contentful.spaces.your_space_alias.person %}
 
 	<div class="col-md-3">
-		<div class="box-person" style="background-color: rgba({{ person.farbe }},0.2); padding:5px 3%">
+		<div class="box-person" style="background-color: rgba({{ person.farbe }},1); padding:5px 3%">
 			<div class="blackbox"><h2>{{ person.name }}</h2></div>
-			<p>{{ person.beschreibung }}</p>
+			<div class="aboutmebox">
+				<p class="aboutmetitle"><strong>ABOUT ME</strong></p>
+				<p class="tpad-25">{{ person.beschreibung }}</p>
+			</div>
 			<p>Mein Alter: <strong>{{ person.alter }}</strong></p>
-			<p>ein Lebensmotto: {{ person.lebensmotto }}</p>
+			<p>Mein Lebensmotto: {{ person.lebensmotto }}</p>
 			<div>
 			<h3><strong>Meine Top 10</strong></h3><br>
 			<ol>
@@ -29,7 +32,6 @@
 	{% endfor %}
 
 </div>
-
 </div>
 
 {% include footer.html %}
