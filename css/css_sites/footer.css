@@ -1,7 +1,6 @@
 .footer {
 	background-color: #404040; 
 	color: #FFFFFF;
-    margin-top: 30px;
 	
 }
 .socialicon {
@@ -11,4 +10,14 @@
 
 a {
 	color: #FFF;
+}
+.para {
+	background-image: url("/pictures/Skyline-MA%202.png");
+    height: 250px;
+    margin-top: 75px;   
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
