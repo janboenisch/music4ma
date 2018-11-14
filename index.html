@@ -12,12 +12,11 @@
 		<div class="box-person" style="padding:5px 3%; background-color: #fff; border: 10px solid rgba({{ person.farbe }},1);">
 			<div class="blackbox" style="background-color: rgba({{ person.farbe }},1);"><h2 style="color: rgba({{ person.farbe }},1);y">{{ person.name }}</h2></div>
 			<div class="aboutmebox">
-				<p><strong>ABOUT ME<br>{{ person.beschreibung }}</p>
+				<p><strong>ABOUT ME</strong><br>{{ person.beschreibung }}</p>
 			</div>
-			<p>Mein Alter: <strong>{{ person.alter }}</strong></p>
-			<p>Mein Lebensmotto: {{ person.lebensmotto }}</p>
+			<p>Ich bin <strong>{{ person.alter }}</strong> Jahre alt!</p>
 			<div>
-			<hr style="border:1px solid rgba({{ person.farbe }},1);"/>
+			<hr style="border:4px solid rgba({{ person.farbe }},1);"/>
 			<h3><strong>Meine Top 10</strong></h3>
 			<ol>
 			{% for top10 in site.data.contentful.spaces.your_space_alias.top10 %}
