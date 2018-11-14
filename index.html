@@ -4,22 +4,22 @@
 {% include nav.html %}
 
 <div id="person">
-<h1>Music4MA</h1>
+<h2 class="center" style="font-size: 80px; padding-top: 20px;">Music4MA</h2>
 <div class="row" style="padding:0 5%">
 	{% for person in site.data.contentful.spaces.your_space_alias.person %}
 
 	<div class="col-md-3">
-		<div style="background-color: rgba({{ person.farbe }},0.2); padding:5px 3%">
-			<h2>{{ person.name }}</h2><br>
+		<div class="box-person" style="background-color: rgba({{ person.farbe }},0.2); padding:5px 3%">
+			<div class="blackbox"><h2>{{ person.name }}</h2></div><br>
 			Beschreibung: {{ person.beschreibung }}<br>
 			Alter: {{ person.alter }}<br>
 			Mein Lebensmotto: {{ person.lebensmotto }}<br><br>
 			<div>
-			<h3>Meine Top 10</h3><br>
+			<h3><strong>Meine Top 10</strong></h3><br>
 			<ol>
 			{% for top10 in site.data.contentful.spaces.your_space_alias.top10 %}
 				{% if top10.person.name == person.name %}
-				<li>{{ top10.interpret }} – {{ top10.song }}</li>
+				<li><strong>{{ top10.interpret }} –</strong> {{ top10.song }}</li>
 				{% endif %}
 			{% endfor %}
 			<ol>

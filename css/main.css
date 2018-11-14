@@ -17,7 +17,7 @@ H1 {
 	font-family: 'Indie Flower', cursive;
 }
 
-H2 {
+H2 { 
 	font-weight: 700;
 }
 
@@ -28,7 +28,7 @@ H3 {
 .center { 
 	text-align: center;
  }
-
 {% include_relative css_sites/footer.css %}
 {% include_relative css_sites/head.css %}
 {% include_relative css_sites/nav.css %}
+{% include_relative css_sites/index.css %}
