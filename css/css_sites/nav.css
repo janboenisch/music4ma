@@ -1,7 +1,12 @@
+/* Navigation Bar */
+.row {
+    color: black;
+    border: none;
+}
+
 /* Dropdown Button */
 .dropbtn {
-    background-color: none;
-    color: black;
+    text-decoration-color: white;
     padding: 16px;
     font-size: 16px;
     border: none;
