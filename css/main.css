@@ -29,6 +29,6 @@ H3 {
 	text-align: center;
  }
 
-{% include footer.css %}
-{% include head.css %}
-{% include nav.css %}
+{% include_relative css_sites/footer.css %}
+{% include_relative css_sites/head.css %}
+{% include_relative css_sites/nav.css %}
