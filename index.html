@@ -6,39 +6,34 @@
 	<div class="center"><h2 class="center main-title" style="font-size: 120px; padding-top: 30px; margin: 50px 0;">Music4MA</h2></div>
 </div>
 <div id="person">
-<div class="row" style="padding:0 5%">
-	{% for person in site.data.contentful.spaces.your_space_alias.person %}
-
-	<div class="col-md-3">
-		<div class="box-person" style="padding:5px 3%; background-color: #fff; border: 10px solid rgba({{ person.farbe }},1);">
-			<div class="blackbox" style="background-color: rgba({{ person.farbe }},1);"><h2 style="color: rgba({{ person.farbe }},1);y">{{ person.name }}</h2></div>
-			<div class="aboutmebox">
-				<p><strong>ABOUT ME</strong><br>{{ person.beschreibung }}</p>
+		<div class="row" style="padding:0 5%">
+			{% for person in site.data.contentful.spaces.your_space_alias.person %}
+			<a class="boxlink" href="personen/{{ person.name }}" alt="{{ person.name }}">
+			<div class="col-md-3">
+				<div class="box-person" style="padding:5px 3%; background-color: #fff; border: 10px solid rgba({{ person.farbe }},1);">
+					<div class="blackbox" style="background-color: rgba({{ person.farbe }},1);"><h2 style="color: rgba({{ person.farbe }},1);y">{{ person.name }}</h2></div>
+					<div class="aboutmebox">
+						<p><strong>ABOUT ME</strong><br>{{ person.beschreibung }}</p>
+					</div>
+					<p>Ich bin <strong>{{ person.alter }}</strong> Jahre alt!</p>
+					<div>
+					<hr style="border:4px solid rgba({{ person.farbe }},1);"/>
+					<h3><strong>Meine Top 10</strong></h3>
+					<ol>
+					{% for top10 in site.data.contentful.spaces.your_space_alias.top10 %}
+						{% if top10.person.name == person.name %}
+						<li><strong>{{ top10.interpret }} –</strong> {{ top10.song }}</li>
+						{% endif %}
+					{% endfor %}
+					<ol>
+					</div>
+				</div>
 			</div>
-			<p>Ich bin <strong>{{ person.alter }}</strong> Jahre alt!</p>
-			<div>
-			<hr style="border:4px solid rgba({{ person.farbe }},1);"/>
-			<h3><strong>Meine Top 10</strong></h3>
-			<ol>
-			{% for top10 in site.data.contentful.spaces.your_space_alias.top10 %}
-				{% if top10.person.name == person.name %}
-				<li><strong>{{ top10.interpret }} –</strong> {{ top10.song }}</li>
-				{% endif %}
+			</a>
 			{% endfor %}
-			<ol>
-			</div>
 		</div>
-	</div>
-	{% endfor %}
-
-</div>
 </div>
 <div class="para">  </div> 
-
-<a href="https://maps.googleapis.com/maps/api/staticmap?center=Brooklyn+Bridge,New+York,NY&zoom=13&size=600x300&maptype=roadmap
-&markers=color:blue%7Clabel:S%7C40.702147,-74.015794&markers=color:green%7Clabel:G%7C40.711614,-74.012318
-&markers=color:red%7Clabel:C%7C40.718217,-73.998284
-&key=YOUR_API_KEY">karte</a>
 {% include footer.html %}
 
 

@@ -35,3 +35,9 @@
 	padding: 20px 0;	
 }
 
+.boxlink {
+	color: inherit; !important;
+}
+.boxlink:hover {
+	color: inherit; !important;
+}
