@@ -5,51 +5,18 @@
                 <i class="fa fa-caret-down"></i>
            </button>
        </div>
-        
+        {% for person in site.data.contentful.spaces.your_space_alias.person %}
                 <div class="dropdown">
-                    <button class="dropbtn">Judith 
+                    <button class="dropbtn">{{ person.name }} 
                         <i class="fa fa-caret-down"></i>
                     </button>
                     <div class="dropdown-content">
-                        <a href="#">Top 10</a>
-                        <a href="#">News</a>
-                        <a href="#">Video</a>
+                        <a href="personen/{{ person.name }}#top10">Top 10</a>
+                        <a href="personen/{{ person.name }}#news">News</a>
+                        <a href="personen/{{ person.name }}#video">Video</a>
                         </div>
                 </div>
-                
-                <div class="dropdown">
-                    <button class="dropbtn">Bianca 
-                        <i class="fa fa-caret-down"></i>
-                    </button>
-                    <div class="dropdown-content">
-                        <a href="#">Top 10</a>
-                        <a href="#">News</a>
-                        <a href="#">Video</a>
-                    </div>
-                </div>
-                
-                <div class="dropdown">
-                    <button class="dropbtn">Karo 
-                        <i class="fa fa-caret-down"></i>
-                    </button>
-                    <div class="dropdown-content">
-                        <a href="personen/karo.html/#top10">Top 10</a>
-                        <a href="personen/karo.html/#news">News</a>
-                        <a href="personen/karo.html/#video">Video</a>
-                    </div>
-                </div>
-                
-                <div class="dropdown">
-                    <button class="dropbtn">Jan 
-                        <i class="fa fa-caret-down"></i>
-                    </button>
-                    <div class="dropdown-content">
-                        <a href="#">Top 10</a>
-                        <a href="#">News</a>
-                        <a href="#">Video</a>
-                    </div>
-                </div>
-        
+        {% endfor %}
             <div class="dropdown">
                 <button class="dropbtn">Impressum 
                     <i class="fa fa-caret-down"></i>
