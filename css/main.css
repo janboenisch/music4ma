@@ -37,6 +37,10 @@ H3 {
 	margin-top: 15px;
 }
 
+.row {
+	margin-right: 0;
+	margin-left: 0;
+}
 {% include_relative css_sites/footer.css %}
 {% include_relative css_sites/head.css %}
 {% include_relative css_sites/nav.css %}

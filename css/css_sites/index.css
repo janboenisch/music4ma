@@ -1,12 +1,16 @@
+#person {
+	margin-bottom: 100px;
+}
 .box-person {
 	box-shadow: 10px 10px rgba(0,0,0,0.4);
 	min-height: 600px;
-	transition: width 0.2s, height 0.2s, transform 0.2s;
+	transition: width 0.3s, height 0.3s, transform 0.3s, box-shadow 0.3s;
 	transition-timing-function: ease;
 }
 .box-person:hover {
+	box-shadow: 15px 15px rgba(0,0,0,0.4);
 	transform: scale(1.02,1.02);
-	transition: width 0.2s, height 0.2s, transform 0.2s;
+	transition: width 0.3s, height 0.3s, transform 0.3s, box-shadow 0.3s;
 	transition-timing-function: ease;
 }
 

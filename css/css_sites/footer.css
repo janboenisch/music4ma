@@ -13,6 +13,7 @@ a {
 }
 .para {
 	background-image: url("/pictures/music1.jpg");
+	background-position: bottom;
   
     height: 500px; 
 
